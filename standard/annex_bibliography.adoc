@@ -8,3 +8,4 @@
 * [[DWBP]] W3C: Data on the Web Best Practices, W3C Recommendation 31 January 2017, https://www.w3.org/TR/dwbp/
 * [[DCAT]] W3C: Data Catalog Vocabulary, W3C Recommendation 16 January 2014, https://www.w3.org/TR/vocab-dcat/
 * [[link-relations]] IANA: Link Relation Types, https://www.iana.org/assignments/link-relations/link-relations.xml
+* International Organization for Standardization: ISO/IEC Directives, Part 2, Rules for the structure and drafting of International Standards, 2018, https://www.iso.org/sites/directives/current/part2/index.xhtml[https://www.iso.org/sites/directives/current/part2/index.xhtml]
